@@ -1,0 +1,7 @@
+# NOOX Project Starter Script
+
+def main():
+    print("Welcome to NOOX! This is your first step into an innovative no-code world. Let's build something awesome together!")
+
+if __name__ == "__main__":
+    main()
